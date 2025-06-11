@@ -1,2 +1,2 @@
 # exercicio1
-minha primeira página WEB
+minha primeira página na WEB
